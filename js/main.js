@@ -50,6 +50,9 @@ $(document).ready(function(){
                 required: true,
                 email:true,
             },
+            tel_user: {
+                required: true
+            }
         },
         messages: {
             name_user: {
