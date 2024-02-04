@@ -1,0 +1,4 @@
+jquery
+jquery plugin validation
+jquery plugin mask
+bootstrap
